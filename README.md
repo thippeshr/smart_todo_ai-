@@ -176,12 +176,8 @@ Frontend - Light Mode:
 
 ⸻
 
-🔗 [Repository Link](https://github.com/shubhammola/smart-todo-ai)
+🔗 [Repository Link]
 
 ⸻
 
-🎥 [Live Demo](https://drive.google.com/file/d/1cZ7yP28D6MLAVGdRhfLCuruawENkY2en/view?usp=sharing)
-
-⸻
-
-Thank You so much! Made with Love by Shubham Mola.
+Thank You so much!
