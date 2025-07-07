@@ -158,7 +158,7 @@ Test files are available inside the ```backend/todos/tests/``` directory. To run
 
 ⸻
 
-🔗 [Repository Link]
+🔗 [Repository Link][https://github.com/thippeshr/smart_todo_ai-/tree/main]
 
 ⸻
 
