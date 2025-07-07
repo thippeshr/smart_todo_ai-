@@ -148,24 +148,6 @@ Test files are available inside the ```backend/todos/tests/``` directory. To run
 
 ```python manage.py test```
 
-Make sure your virtual environment is activated.
-
-⸻
-
-📸 Demo UI Screenshots
-Backend:
-<img width="1440" alt="Screenshot 2025-07-06 at 22 33 44" src="https://github.com/user-attachments/assets/a3f69ce9-b86a-476d-83d6-979dcf6faa55" />
-<img width="1440" alt="Screenshot 2025-07-06 at 22 33 53" src="https://github.com/user-attachments/assets/3f871563-4e49-46be-9474-afb53334f79f" />
-<img width="1440" alt="Screenshot 2025-07-06 at 22 37 30" src="https://github.com/user-attachments/assets/b850d5d9-4129-488b-8a13-e7d02e6f8f6a" />
-Frontend - Dark Mode:
-<img width="1440" alt="Screenshot 2025-07-06 at 22 41 52" src="https://github.com/user-attachments/assets/a1dcbaa6-75ee-4931-a284-48c4a387085c" />
-<img width="1440" alt="Screenshot 2025-07-06 at 22 42 00" src="https://github.com/user-attachments/assets/f604edee-b161-41b9-8690-3d6ca3d4da51" />
-Frontend - Light Mode:
-<img width="1440" alt="Screenshot 2025-07-06 at 22 42 17" src="https://github.com/user-attachments/assets/81a5dcc1-60a5-4d12-932a-6ea1aec388ff" />
-<img width="1440" alt="Screenshot 2025-07-06 at 22 42 24" src="https://github.com/user-attachments/assets/ad071096-ec51-4d83-bd40-2469222d27af" />
-
-⸻
-
 🏆 Evaluation Criteria Checklist
 	•	AI-powered suggestions integrated (mocked/static for demo)
 	•	Backend REST APIs functional and tested
